@@ -23,3 +23,7 @@
   - Face occlusion detection
   - Semi-automatic annotation system for object detection
   - Personal protection equipment  (PPE) detection system
+
+# Others
+- https://kurnianggoro.github.io/
+- https://pindai.dev/
