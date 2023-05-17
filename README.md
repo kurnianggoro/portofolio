@@ -1,6 +1,6 @@
 # Projects
-- Building a custom 3D lidar
-- Registering lidar with camera: [video]()
+- Building a custom 3D lidar: [video](https://www.youtube.com/watch?v=zRLNOw0-y7M)
+- Registering lidar with camera: [video](https://www.youtube.com/watch?v=Jl5ZwQCugKM)
 - Building an autonomous vehicle system
 - Robotic car washer system: [video1](https://www.youtube.com/watch?v=C2--LocJyP4) [video2](https://www.youtube.com/watch?v=zRLNOw0-y7M)
 - Google Summer Of Code 2015: [link1](https://www.google-melange.com/archive/gsoc/2015/orgs/opencv/projects/kurnianggoro.html) [link2](https://docs.opencv.org/3.4/d2/d0a/tutorial_introduction_to_tracker.html)
